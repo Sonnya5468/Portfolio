@@ -1,0 +1,151 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    width: 1115px;
+    margin: auto;
+    background-color: #F3F3F3;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+}
+header .title {
+    display: flex;
+    align-items: center;
+    gap: 29px;
+}
+header h2 {
+    font-family: DM Sans;
+font-weight: 500;
+font-size: 50px;
+letter-spacing: -3%;
+color: #181717;
+}
+header .title .text {
+    font-family: DM Sans;
+font-weight: 500;
+font-size: 22px;
+letter-spacing: -3%;
+color: #181717;
+}
+.block1 {
+    display: flex;
+    justify-content: space-between;
+}
+.block1 .title1 {
+    font-family: DM Sans;
+font-weight: 500;
+font-size: 60px;
+letter-spacing: -3%;
+color: #181717;
+margin-top: 147px;
+margin-bottom: 47px;
+}
+
+.block1 .form .text2 {
+    font-family: DM Sans;
+font-weight: 400;
+font-size: 24px;
+letter-spacing: -3%;
+color: #606060;
+}
+.block1 .photo img {
+    margin-top: 147px;
+}
+.block2 {
+    display: flex;
+}
+.block2 .text3 {
+    display: flex;
+}
+.block2 .cont {
+    margin-top: 69px;
+}
+.block2 .text3 .skills {
+    font-family: DM Sans;
+font-weight: 500;
+font-style: Medium;
+font-size: 22px;
+letter-spacing: -3%;
+text-decoration: underline;
+color:  #181717;
+margin-right: 64px;
+}
+.block2 .text3 .text4 {
+    font-family: DM Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 20px;
+leading-trim: NONE;
+line-height: 122%;
+letter-spacing: -3%;
+color:  #181717;
+margin-bottom: 86px;
+}
+.block2 .text3 .text5 {
+    font-family: DM Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 20px;
+leading-trim: NONE;
+line-height: 122%;
+letter-spacing: -3%;
+color:  #181717;
+ }
+.block3 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 183px;;
+}
+.block3 .form1 {
+    display: flex;
+    gap: 48px;
+    /* align-items: center; */
+}
+.block3 .form1 .text6 {
+    font-family: DM Sans;
+font-weight: 400;
+font-size: 32px;
+letter-spacing: -3%;
+color:  #181717;
+/* margin-top: 183px; */
+}
+.block3 .form1 .photo {
+margin-top: 5px;
+
+
+}
+ .block3 .text7 {
+    font-family: DM Sans;
+font-weight: 400;
+font-size: 32px;
+letter-spacing: -3%;
+/* margin-top: 183px; */
+ }
+ footer {
+    display: flex;
+    justify-content: space-between;
+ }
+ footer {
+    margin-top: 135px;
+ }
+footer .form2 {
+    display: flex;
+    gap: 32px;
+}
+footer .name {
+    font-family: DM Sans;
+font-weight: 500;
+font-size: 22px;
+letter-spacing: -3%;
+color: #2429AF;
+}
+footer .form2 .text8 {
+    font-family: DM Sans;
+font-weight: 500;
+font-size: 22px;
+letter-spacing: -3%;
+color: #181717;
+}

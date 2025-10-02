@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    width: 1227px;
+    margin: auto;
+    background-color: #f3f3f3
+}
+header {
+    display: flex;
+    justify-content: space-between;
+}
+header .text {
+    display: flex ;
+    align-items: center;
+    gap: 29px;
+
+}
+header h2 {
+    font-family: DM Sans;
+font-weight: 500;
+font-size: 50px;
+letter-spacing: -3%;
+color:  #181717;
+}
+header .text .text1 {
+    font-family: DM Sans;
+font-weight: 500;
+font-size: 22px;
+letter-spacing: -3%;
+color:  #181717;
+}
+ 
+.form .block {
+    display: flex;
+    justify-content: space-between;
+}
+.form .inputs {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.form h1 {
+    font-family: DM Sans;
+font-weight: 500;
+font-size: 60px;
+letter-spacing: -3%;
+color:  #181717;
+margin-top: 109px;
+}
+.form .text4 {
+font-family: DM Sans;
+font-weight: 400;
+font-size: 22px;
+letter-spacing: -3%;
+color: #606060;
+margin-top: 30px;
+margin-bottom: 52px;
+}
+.form .inputs input {
+    width: 654px;
+height: 50px;
+border-radius: 5px;
+border: 1px solid #C4C4C4;
+padding-left: 22px;
+}
+.form .text5 {
+    font-family: DM Sans;
+font-weight: 400;
+letter-spacing: -3%;
+color:  #606060;
+
+}
+.form button {
+    background-color: black;
+    width: 180px;
+height: 32px;
+color: white;
+margin-top: 30px;
+}
+
+.end {
+    display: flex;
+    justify-content: space-between;
+}
+.end .text3
+{
+    display: flex;
+    gap: 30px;
+}
+.end .text6 {
+    font-family: DM Sans;
+font-weight: 500;
+font-size: 22px;
+letter-spacing: -3%;
+color: #2429AF;
+margin-top: 109px;
+
+}
+.end .text3 p {
+    font-family: DM Sans;
+font-weight: 500;
+font-size: 22px;
+leading-trim: NONE;
+line-height: 120%;
+letter-spacing: -3%;
+color: #181717;
+margin-top: 109px;
+}
+
+
+
+

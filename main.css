@@ -1,0 +1,128 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body
+{ 
+    background-color: #F3F3F3;
+ width: 1127px;
+ margin: auto;
+}
+
+header {
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+header h2 {
+    font-family: DM Sans;
+font-weight: 500;
+font-size: 50px;
+letter-spacing: -3%;
+color:  #181717;
+;
+}
+
+header .title {
+    display: flex;
+    gap: 30px;
+}
+header .title p {
+    font-family: DM Sans;
+font-weight: 500;
+font-size: 22px;
+letter-spacing: -3%;
+color: #181717;
+
+}
+
+.block0 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 128px;
+}
+.block0 h1 {
+    font-family: DM Sans;
+font-weight: 500;
+font-style: Medium;
+font-size: 60px;
+letter-spacing: -3%;
+color:  #181717;
+}
+.block0 p {
+font-family: DM Sans;
+font-weight: 400;
+font-size: 32px;
+leading-trim: NONE;
+line-height: 117%;
+letter-spacing: -3%;
+color:  #606060;
+}
+
+
+.block0 .photo {
+    margin-top: 128px;
+
+}
+
+
+.block1 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 83px;
+}
+
+.block1 .cv {
+    font-family: DM Sans;
+font-weight: 500;
+font-style: Medium;
+font-size: 24px;
+letter-spacing: -3%;
+color:  #181717;
+}
+
+.block1 .project {
+    font-family: DM Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 22px;
+letter-spacing: -3%;
+color:  #181717;
+margin-top: 25px;
+}
+ .block1 .html {
+   font-family: DM Sans;
+font-weight: 400;
+font-style: Regular;
+font-size: 22px;
+letter-spacing: -3%;
+color:  #606060;
+margin-top: 101px;
+ }
+footer {
+    display: flex;
+    justify-content: space-between;
+}
+footer .end {
+    display: flex;
+    gap: 30px;
+    font-family: DM Sans;
+font-weight: 500;
+font-size: 22px;
+leading-trim: NONE;
+line-height: 120%;
+letter-spacing: -3%;
+
+}
+
+footer .end1 {
+    font-family: DM Sans;
+font-weight: 500;
+font-size: 22px;
+leading-trim: NONE;
+line-height: 120%;
+letter-spacing: -3%;
+color: #2429AF;
+
+}
